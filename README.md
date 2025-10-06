@@ -18,7 +18,7 @@
 - 🔭 Actualmente estoy profundizando mis conocimientos en **Pentesting y redes**.
 - 🌱 Me estoy especializando en **Python** para scripts de seguridad y en **TypeScript/Astro** para proyectos web.
 - 💡 Busco colaborar en proyectos de código abierto relacionados con la ciberseguridad o desarrollo web.
-- 📫 Puedes contactarme en mi correo: `[TU_CORREO_AQUÍ]`
+- 📫 Puedes contactarme en mi correo: `miguel_dmartillo@outlook.com`
 
 ---
 
