@@ -40,18 +40,9 @@ Aplicación SPA moderna que demuestra el dominio de **Angular 17+**.
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLogan21&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true" alt="Miguel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLogan21&layout=compact&theme=omni&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 📫 Contacto
 
-Estoy abierto a oportunidades laborales donde pueda aplicar mis conocimientos en Angular y seguridad.
+Estoy abierto a oportunidades laborales donde pueda aplicar mis conocimientos en Frontend y seguridad.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-martillo-gonzález-520454204)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](miguel_dmartillo@outlook.com)
