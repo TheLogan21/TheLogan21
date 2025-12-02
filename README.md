@@ -1,99 +1,57 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Hola, soy Miguel A.K.A TheLogan21 👋
+
+### Estudiante de Ingeniería en Ciberseguridad | Desarrollador JR Frontend Especializado en Angular
+
+Soy un desarrollador apasionado por la **arquitectura de software**, el código limpio y el tipado estricto. Actualmente, combino mis estudios en **Ciberseguridad** con el desarrollo profesional de aplicaciones web modernas, escalables y reactivas.
+
+Mi enfoque no es solo que el código funcione, sino que sea **seguro, mantenible y eficiente**.
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+Me especializo en el ecosistema de JavaScript/TypeScript, con un fuerte dominio de Angular moderno.
+
+#### Frontend & Core
+![Angular](https://img.shields.io/badge/Angular-17%2B-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-Reactive-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
+#### Backend & Datos
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Infraestructura & Herramientas
+![Git](https://img.shields.io/badge/Git-VCS-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### [GifsApp - Buscador Reactivo](https://github.com/TheLogan21/gifs-app)
+Aplicación SPA moderna que demuestra el dominio de **Angular 17+**.
+* **Arquitectura:** Standalone Components, Servicios Modulares y Patrón Adaptador.
+* **Estado:** Manejo reactivo granular con **Signals** (`computed`, `effect`).
+* **Performance:** Infinite Scroll manual optimizado y persistencia en LocalStorage.
+* **UX:** Diseño responsivo avanzado (Bottom Sheet en móvil vs Sidebar en Desktop).
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLogan21&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true" alt="Miguel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLogan21&layout=compact&theme=omni&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
 </div>
 
-<div id="title" align="center">
-  <h1>¡Hola! Soy Miguel 👋</h1>
-  <h3>Estudiante de Ciberseguridad y desarrollador web.</h3>
-</div>
-
 ---
 
-### 👨‍💻 Sobre mí
+### 📫 Contacto
 
-<p>
-  Soy un estudiante de ciberseguridad de Ecuador 🇪🇨, enfocado en aprender sobre seguridad ofensiva y desarrollo seguro. Me encanta crear herramientas que solucionen problemas reales y explorar el desarrollo web moderno.
-</p>
+Estoy abierto a oportunidades laborales donde pueda aplicar mis conocimientos en Angular y seguridad.
 
-- 🔭 Actualmente estoy profundizando mis conocimientos en **Pentesting y redes**.
-- 🌱 Me estoy especializando en **Python** para scripts de seguridad y en **TypeScript/Astro** para proyectos web.
-- 💡 Busco colaborar en proyectos de código abierto relacionados con la ciberseguridad o desarrollo web.
-- 📫 Puedes contactarme en mi correo: `miguel_dmartillo@outlook.com`
-
----
-
-### 💻 Tecnologías y Herramientas
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-### 🚀 Mis Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Logan_pass</h3>
-      <div align="center">
-        <a href="https://github.com/TheLogan21/Logan_pass" target="_blank">
-          <img src="https://raw.githubusercontent.com/TheLogan21/Logan_pass/main/img/preview.png" width="400" alt="Vista previa de Logan_pass">
-        </a>
-        <p>
-          <a href="https://github.com/TheLogan21/Logan_pass" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%B3digo-ffcb6b?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-        <p>
-          Un generador de contraseñas seguras y personalizables desarrollado completamente en Python.
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Bot de Telegram con Python</h3>
-      <div align="center">
-        <a href="https://github.com/TheLogan21/Bot_telegram_con_python" target="_blank">
-          <img src="https://via.placeholder.com/400x200.png?text=Bot+de+Telegram" width="400" alt="Vista previa del Bot de Telegram">
-        </a>
-        <p>
-          <a href="https://github.com/TheLogan21/Bot_telegram_con_python" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%B3digo-3776AB?style=for-the-badge&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p>
-          Un bot multifuncional para Telegram, ideal para automatizar tareas y notificaciones.
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLogan21&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de Miguel" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLogan21&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-martillo-gonzález-520454204)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](miguel_dmartillo@outlook.com)
