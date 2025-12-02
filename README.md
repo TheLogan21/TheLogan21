@@ -31,7 +31,7 @@ Me especializo en el ecosistema de JavaScript/TypeScript, con un fuerte dominio 
 
 ### 🚀 Proyectos Destacados
 
-#### [GifsApp - Buscador Reactivo](https://github.com/TheLogan21/gifs-app)
+#### [GifsApp - Buscador Reactivo](https://gifsappweb.netlify.app/)
 Aplicación SPA moderna que demuestra el dominio de **Angular 17+**.
 * **Arquitectura:** Standalone Components, Servicios Modulares y Patrón Adaptador.
 * **Estado:** Manejo reactivo granular con **Signals** (`computed`, `effect`).
